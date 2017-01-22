@@ -38,6 +38,7 @@ meetups:
                         fullname: Omar Saidi
                         link: https://www.linkedin.com/in/omar-saidi-39527349
                         position: Salesforce Senior Consultant, Project Manager at Altius-services
+                        photo: omar_saidi.jpg
             presentation_2:
                 title: DevOps ? "From idea to production"
                 level: Intermediate
@@ -46,6 +47,7 @@ meetups:
                         fullname: Habib Maalem
                         link: https://dz.linkedin.com/in/habibmaalem
                         position: Web Developer (Consultant)
+                        photo: habib_maalem.jpg
             presentation_3:
                 title: Introduction to GCP and Kubernetes
                 level: Intermediate
@@ -54,6 +56,7 @@ meetups:
                         fullname: Tedj Meabiou
                         link: https://dz.linkedin.com/in/tedj-meabiou-a6309548
                         position: Co-founder of ioGrow
+                        photo: tedj_meabiou.jpg
             presentation_4:
                 title: Introduction to AWS
                 level: Beginners
@@ -62,6 +65,7 @@ meetups:
                         fullname: Mounir Kadri
                         link: https://www.linkedin.com/in/mounir-kadri-b9989132
                         position: Lead developer at Emploitic
+                        photo: mounir_kadri.jpg
             presentation_5:
                 title: Introduction to Docker
                 level: Beginners
@@ -70,6 +74,7 @@ meetups:
                         fullname: Ramzi Debab
                         link: https://ramzibot.wordpress.com/
                         position: Senior Consultant at Ooredoo
+                        photo: ramzi_debab.jpg
             presentation_6:
                 title: De la virtualisation au cloud, enjeux et pratiques
                 level: Intermediate
@@ -78,6 +83,7 @@ meetups:
                         fullname: Bilal Kalem
                         link: https://www.linkedin.com/in/bilalkalem
                         position: CEO at integrateur open source (IOS)
+                        photo: bilal_kalem.jpg
             presentation_7:
                 title: Microsoft Azure for Developers
                 level: Intermediate
@@ -86,6 +92,7 @@ meetups:
                         fullname: Mohammed Amine Mostefai
                         link: http://www.mostefaiamine.com/
                         position: Enseignant / Chercheur at ESI
+                        photo: mohammed_amine_mostefai.jpg
     -
         title: SQL vs NoSQL Databases
         location: Algiers
@@ -100,6 +107,7 @@ meetups:
                         fullname: Aguedal Yazid
                         link: https://dz.linkedin.com/in/yazidaguedal
                         position: Oracle DBA Consultant at Ooredoo
+                        photo: aguedal_yazid.jpg
             presentation_3:
                 title: Getting started with MongoDB
                 level: Beginners
@@ -109,6 +117,7 @@ meetups:
                         fullname: Khabil Aicha
                         link: https://www.linkedin.com/in/akhabil
                         position: Responsable IT at Faculté des sciences de l'information d'Alger III
+                        photo: khabil_aicha.jpg
             presentation_4:
                 title: Building Realtime Apps with Firebase
                 level: Intermediate
@@ -118,6 +127,7 @@ meetups:
                         fullname: Houssem Yahiaoui
                         link: https://twitter.com/_hcodex
                         position: Etudiant / GDG Manager at USDB
+                        photo: houssem_yahiaoui.jpg
     -
         title: Modern Web Development
         location: Algiers
@@ -131,6 +141,7 @@ meetups:
                         fullname: Ahmed Siouani
                         link: https://twitter.com/ahmedsiouani
                         position: Lead Developer - TheFork (A TripAdvisor Company)
+                        photo: ahmed_siouani.jpg
             presentation_3:
                 title: Getting started with React and Redux
                 level: Beginners
@@ -140,6 +151,7 @@ meetups:
                         fullname: Riad Benguella
                         link: https://twitter.com/riadbenguella
                         position: Web Developer / CEO at Rizeway
+                        photo: riad_benguella.jpg
             presentation_4:
                 title: Progressive Web Apps
                 level: Beginners
@@ -149,6 +161,7 @@ meetups:
                         fullname: Houssem Yahiaoui
                         link: https://twitter.com/_hcodex
                         position: Etudiant / GDG Manager at USDB
+                        photo: houssem_yahiaoui.jpg
     -
         title: Linux, Open Source & Security
         location: Algiers
@@ -162,6 +175,7 @@ meetups:
                         fullname: Djalal Harouni
                         link: http://opendz.org
                         position: Freelancer (systemd, Linux kernel developer and others)
+                        photo: djalal_harouni.jpg
             presentation_2:
                 title: Dev Environment for Linux (Mainly KDE/Python)
                 level: Beginners
@@ -170,6 +184,7 @@ meetups:
                         fullname: Assem Chelli
                         link: http://www.assemchelli.com/
                         position: Software Engineer at ioGrow
+                        photo: assem_chelli.jpg
             presentation_3:
                 title: Let's Encrypt! It’s free, automated, and open
                 level: Intermediate
@@ -178,6 +193,7 @@ meetups:
                         fullname: Omar Reda Allah Akham
                         link: https://dz.linkedin.com/in/omar-akham-a08baa21
                         position: IT Manager at MEGA Development Five
+                        photo: omar_reda_allah_akham.jpg
             presentation_4:
                 title: SQL Injection / LFI to root
                 level: Advanced
@@ -186,6 +202,7 @@ meetups:
                         fullname: Noureddine Bellounis
                         link: http://www.0x890.xyz
                         position: Infographe at Eprint Algérie
+                        photo: noureddine_bellounis.jpg
             presentation_5:
                 title: PAAS, QQOQCCP ?
                 level: Beginners
@@ -194,6 +211,7 @@ meetups:
                         fullname: Bouida Djelloul
                         link: https://dz.linkedin.com/in/bouida
                         position: CEO & Founder at HDConsulting
+                        photo: bouida_djelloul.jpg
     -
         title: Hybrid Mobile App Development
         location: Algiers
@@ -207,6 +225,7 @@ meetups:
                         fullname: Riyadh Baghdadi
                         link: http://people.csail.mit.edu/baghdadi/
                         position: Researcher at MIT
+                        photo: riyadh_baghdadi.jpg
             presentation_2:
                 title: Be-Bound SDK
                 level: Beginners
@@ -215,6 +234,7 @@ meetups:
                         fullname: Melvin Biamont
                         link: https://www.linkedin.com/in/melvin-biamont-4478a0b2
                         position: Lead Developer at Be-Bound
+                        photo: melvin_biamont.jpg
             presentation_3:
                 title: Initiation to Unity3D (World of games)
                 level: Intermediate
@@ -223,6 +243,7 @@ meetups:
                         fullname: Younes Sennadj
                         link: https://dz.linkedin.com/in/younessennadj
                         position: Student at ESI
+                        photo: younes_sennadj.jpg
             presentation_4:
                 title: Introduction to react-native
                 level: Beginners
@@ -231,6 +252,7 @@ meetups:
                         fullname: Sidali Hallak
                         link: https://www.linkedin.com/in/sidalihallak
                         position: Software Engineer at Io Grow
+                        photo: sidali_hallak.jpg
             presentation_5:
                 title: Ionic and Hybrid Apps Story !
                 level: Intermediate
@@ -239,6 +261,7 @@ meetups:
                         fullname: Houssem Yahiaoui
                         link: https://twitter.com/_hcodex
                         position: Etudiant / GDG Manager at USDB
+                        photo: houssem_yahiaoui.jpg
             presentation_6:
                 title: Titanium,  native and cross-platform apps with Javascript
                 level: Beginners
@@ -247,6 +270,7 @@ meetups:
                         fullname: Ayoub Zamouchi
                         link: http://www.linkedin.com/in/ayoubzamouchi
                         position: Mobile Developper at DzMob
+                        photo: ayoub_zamouchi.jpg
             presentation_7:
                 title: Phonegap in Action
                 level: Intermediate
@@ -255,6 +279,7 @@ meetups:
                         fullname: Mohamed El Amine Djedidi
                         link: https://www.linkedin.com/in/amine-djedidi-01932446
                         position: Web /Mobile Developer at FGS
+                        photo: mohamed_el_amine_djedidi.jpg
             presentation_8:
                 title: Be-Bound SDK (workshop)
                 level: Intermediate
@@ -263,6 +288,7 @@ meetups:
                         fullname: Benmammari Abderrezak
                         link: https://www.linkedin.com/in/benmammari-zakovitch-02a56687
                         position: Android Developer at Be-Bound
+                        photo: benmammari_abderrezak.jpg
     -
         title: Agility in Software Development
         location: Algiers
@@ -277,6 +303,7 @@ meetups:
                         fullname: Abdeslem Menacere
                         link: https://twitter.com/abdeslem_
                         position: IT Manager at Emploitic
+                        photo: abdeslem_menacere.jpg
             presentation_2:
                 title: Scrum in Action
                 level: Beginners
@@ -286,6 +313,7 @@ meetups:
                         fullname: Hacen Dadda
                         link: https://www.linkedin.com/in/hacendadda
                         position: CTO at HiveDigit
+                        photo: hacen_dadda.jpg
             presentation_3:
                 title: The product Owner Role
                 level: Intermediates
@@ -295,6 +323,7 @@ meetups:
                         fullname: Zidane Fathia
                         link: https://www.linkedin.com/in/fathia-zidane-887b1027
                         position: Chef de projet web at Emploitic
+                        photo: zidane_fathia.jpg
             presentation_4:
                 title: The product Owner Role
                 level: Beginners
@@ -304,6 +333,7 @@ meetups:
                         fullname: Abdelaziz Kemouche
                         link: https://twitter.com/KmAziz
                         position: Product Owner at Emploitic
+                        photo: abdelaziz_kemouche.jpg
             presentation_5:
                 title: REX, Agility at Icosnet
                 level: Intermediates
@@ -313,6 +343,7 @@ meetups:
                         fullname: Billel Loubar
                         link: https://www.linkedin.com/in/loubarbillel
                         position: Directeur technique at Icosnet
+                        photo: billel_loubar.jpg
             presentation_6:
                 title: Agile estimations techniques (Workshop)
                 level: Intermediates
@@ -321,6 +352,7 @@ meetups:
                         fullname: Slimane Louanas
                         link: https://dz.linkedin.com/in/louanas
                         position: web developer & Scrum Master at Emploitic
+                        photo: slimane_louanas.jpg
     -
         title: PHP Frameworks
         location: Algiers
@@ -334,6 +366,7 @@ meetups:
                         fullname: Ahmed Siouani
                         link: https://twitter.com/ahmedsiouani
                         position: Lead Developer at TheFork (A TripAdvisor Company)
+                        photo: ahmed_siouani.jpg
             presentation_2:
                 title: Laravel Framework
                 slides: http://slides.com/kouceylahadji-1/laravel#/
@@ -342,6 +375,7 @@ meetups:
                         fullname: Koceila Hadji
                         link: https://dz.linkedin.com/in/kouceyla-hadji-908b3134
                         position: Consultant, Trainer and Freelancer
+                        photo: koceila_hadji.jpg
             presentation_3:
                 title: Yii Framework
                 slides: http://cherifgsoul.github.io/yii2-slides/
@@ -350,6 +384,7 @@ meetups:
                          fullname: Cherif Bouchelaghem
                          link: https://twitter.com/Cherif_b
                          position: Senior Web Developer at Allegorie.tv
+                        photo: cherif_bouchelaghem.jpg
     -
         title: Android / Arduino
         location: Algiers
@@ -363,6 +398,7 @@ meetups:
                         fullname: Moussaoui Karim
                         link: https://www.linkedin.com/profile/view?id=93034643
                         position: Core Network Engineer at Ota algeria
+                        photo: moussaoui_karim.jpg
             presentation_2:
                 title: Introduction to Arduino
                 slides:  http://www.slideshare.net/algiersmeetup/introduction-to-arduino-55922155
@@ -371,6 +407,7 @@ meetups:
                         fullname: Meftah Lakhdar
                         link: https://dz.linkedin.com/in/lakhdarmeftah
                         position: Student at ESI
+                        photo: meftah_lakhdar.jpg
             presentation_3:
                 title: Material Design Overview
                 slides:  http://www.slideshare.net/algiersmeetup/material-design-for-android-55921991
@@ -379,6 +416,7 @@ meetups:
                         fullname: Hichem Acher
                         link: https://dz.linkedin.com/pub/hichem-acher/59/b29/137
                         position: Mobile developer at ioGrow
+                        photo: hichem_acher.jpg
             presentation_4:
                 title: Material Design Overview
                 slides:  http://www.slideshare.net/algiersmeetup/material-design-for-android-55921991
@@ -387,6 +425,7 @@ meetups:
                         fullname: Ilyas Hanagria
                         link: https://www.facebook.com/ilyas.hanagria
                         position: Android Developer at ioGrow
+                        photo: ilyas_hanagria.jpg
 
     -
         title: JavaScript Frameworks & Front-End Architecture
@@ -401,6 +440,7 @@ meetups:
                         fullname: Samir Rouabhi
                         link: https://www.linkedin.com/in/rouabhi
                         position: JavaScript Expert at Cloudestin Business Software
+                        photo: samir_rouabhi.jpg
             presentation_3:
                 title: 5 Powerful & Non-popular Frameworks
                 demo:  https://github.com/cherifGsoul/jsmeetup
@@ -409,6 +449,7 @@ meetups:
                         fullname: Cherif Bouchelaghem
                         link: https://twitter.com/Cherif_b
                         position: Senior Web Developer at NetBeOpen
+                        photo: cherif_bouchelaghem.jpg
             presentation_4:
                 title: Ember.js
                 slides: http://g13013.github.io/talks/ember/algiers_meetup
@@ -417,6 +458,7 @@ meetups:
                         fullname: Aboubakr Gasmi
                         link: https://twitter.com/g13013
                         position: Lead Front Developer at Emploitic
+                        photo: aboubakr_gasmi.jpg
             presentation_5:
                 title: React & React Native
                 speakers:
@@ -424,6 +466,7 @@ meetups:
                         fullname: Tedj Meabiou
                         link: https://www.linkedin.com/pub/tedj-meabiou/48/95/a63
                         position: Web / Cloud Developer at IoGrow
+                        photo: tedj_meabiou.jpg
             presentation_6:
                 title: AngularJS
                 demo : https://github.com/Moncef12/ng_talk_app_demo
@@ -432,6 +475,7 @@ meetups:
                         fullname: Moncef Hassein-Bey
                         link: https://twitter.com/moncef_hbey
                         position: Web Developer at Service Factory
+                        photo: moncef_hassein-bey.jpg
             presentation_7:
                 title: Backbone.js & Marionette.js
                 speakers:
@@ -439,6 +483,7 @@ meetups:
                         fullname: Tarik Zakaria Benmerar
                         link: https://twitter.com/tarikbenmerar
                         position: Web Developer at Acigna
+                        photo: tarik_zakaria_benmerar.jpg
 
     -
         title: Productivity in software development
@@ -454,6 +499,7 @@ meetups:
                         link: https://twitter.com/touhrouche
                         position: Project Manager & Certified Scrum Master (Schlumberger)
                         additional_info: via Hangout
+                        photo: tahar_ouhrouche.jpg
             presentation_2:
                 title: Agile Philosophy & Tasks Management
                 slides: http://www.slideshare.net/algiersmeetup/agile-spirit-52006535
@@ -462,6 +508,7 @@ meetups:
                         fullname: Abdeslem Menacere
                         link: https://twitter.com/abdeslem_
                         position: IT Manager, Emploitic
+                        photo: abdeslem_menacere.jpg
 
             presentation_3:
                 title: Code Versioning
@@ -471,6 +518,7 @@ meetups:
                         fullname: Ahmed Siouani
                         link: https://twitter.com/ahmedsiouani
                         position: Lead Developer - TheFork (A TripAdvisor Company)
+                        photo: ahmed_siouani.jpg
 
             presentation_4:
                 title: OOP & design patterns
@@ -480,6 +528,7 @@ meetups:
                         fullname: Tarik Zakaria Benmerar
                         link: https://twitter.com/tarikbenmerar
                         position: CEO - Manager - Acigna
+                        photo: tarik_zakaria_benmerar.jpg
 
             presentation_5:
                 title: Web hosting & Webmastering
@@ -488,6 +537,7 @@ meetups:
                         fullname: Mohamed Lamine Belbachir
                         link: https://www.linkedin.com/pub/mohamed-lamine-belbachir/1b/a74/89
                         position: CEO - Manager - Ayrade
+                        photo: mohamed_lamine_belbachir.jpg
 
     -
         title: Android Meetup
@@ -502,3 +552,4 @@ meetups:
                         link: https://twitter.com/nabil_hachicha
                         position: Android Developer at Realm
                         description: Nabil is an avid Android fan who enjoys speaking at community-oriented conferences like Droidcon & GDG. His work as the developer behind SnappyDB helped him hone his open source development skills. He previously worked on apps in France & UK for companies like Renault, Bouygues-Telecom, Michelin, NewsUK, Unilever, and Go-Ahead. Currently, Nabil is an Android developer at Realm, replacement for SQLite & Core Data
+                        photo: nabil_hachicha.jpg
