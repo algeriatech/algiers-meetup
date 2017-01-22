@@ -13,7 +13,7 @@ links:
         url: https://groups.google.com/forum/#!forum/algiers-meetup
     twitter:
         icon: twitter
-        url: https://twitter.com/AlgiersMeetup
+        url: https://twitter.com/algeria_tech
     flickr:
         icon: flickr
         url: https://www.flickr.com/photos/136845461@N05/
@@ -21,7 +21,7 @@ links:
         icon: slack
         url: https://algeriatech.now.sh/
 talkProposalForm: https://goo.gl/V4w6c1
-twitter: AlgiersMeetup
+twitter: algeria_tech
 images: [ algiers-meetup-1.jpg, algiers-meetup-2.jpg ]
 meetups:
     -
