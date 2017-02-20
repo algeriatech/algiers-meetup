@@ -24,11 +24,43 @@ talkProposalForm: https://goo.gl/V4w6c1
 twitter: algeria_tech
 images: [ algiers-meetup-1.jpg, algiers-meetup-2.jpg ]
 meetups:
+        -
+        title: Data Driven Development
+        location: Sylabs, Algiers
+        date: February 25st 2017
+        current: true
+        presentations:
+            presentation_1:
+                title: The Growth Product Development
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Mehdi Mehni
+                        link: https://www.linkedin.com/in/mehdimehni/en
+                        position: Growth Product Manager at Téo Taxi
+                        photo: meetups/speakers/mahni_mehdi.png
+            presentation_2:
+                title: "Welcome to Big Data world : From Big to Smart decision making"
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Nesrine Zemirli
+                        link: https://www.linkedin.com/in/nesrinezemirli/en
+                        position: Data Scientist & Project Manager at Cam Solutions Ltd
+                        photo: meetups/speakers/zemirli_nesrine.png
+            presentation_3:
+                title: Data tracking using Google Analytics
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Zidane Fathia
+                        link: https://www.linkedin.com/in/fathia-zidane-887b1027
+                        position: Digital Marketing Expert at Djezzy
+                        photo: meetups/speakers/zidane_fathia.jpg
     -
         title: Cloud & Virtualisation
         location: Sylabs, Algiers
         date: January 21st 2017
-        current: true
         presentations:
             presentation_1:
                 title: Understanding the Salesforce Plateforme Architecture
