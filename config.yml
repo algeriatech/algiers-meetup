@@ -55,7 +55,7 @@ meetups:
                     speaker_1:
                         fullname: Zidane Fathia
                         link: https://www.linkedin.com/in/fathia-zidane-887b1027
-                        position: Digital Marketing Expert at Djezzy
+                        position: Chef de projet at DzMob
                         photo: meetups/speakers/zidane_fathia.jpg
     -
         title: Cloud & Virtualisation
