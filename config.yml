@@ -46,7 +46,7 @@ meetups:
                     speaker_1:
                         fullname: Nesrine Zemirli
                         link: https://www.linkedin.com/in/nesrinezemirli/en
-                        position: Data Scientist & Project Manager at Cam Solutions Ltd
+                        position: Consultant Data Scientist et Senior Lecturer - Collège Bois de Boulogne
                         photo: meetups/speakers/zemirli_nesrine.png
             presentation_3:
                 title: Data tracking using Google Analytics
