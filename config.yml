@@ -27,7 +27,7 @@ meetups:
     -
         title: Advanced Javascript.
         location: Sylabs, Algiers
-        date: February 25st 2017
+        date: March 25st 2017
         current: true
         presentations:
             presentation_1:
