@@ -25,10 +25,34 @@ twitter: algeria_tech
 images: [ algiers-meetup-1.jpg, algiers-meetup-2.jpg ]
 meetups:
     -
-        title: Data Driven Development
+        title: Advanced Javascript.
         location: Sylabs, Algiers
         date: February 25st 2017
         current: true
+        presentations:
+            presentation_1:
+                title: "Intro to RxJS"
+                level: Beginner
+                speakers:
+                    speaker_1:
+                        fullname: Houssem Yahiaoui
+                        link: https://www.linkedin.com/in/houssemyahiaoui
+                        position: Telerik Developer Expert and Freelance Javascript Develoer
+                        photo: meetups/speakers/houssem_yahiaoui.jpg
+            presentation_2:
+                title: "ES6 Modules + Bundlers"
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Ismail Hamadi 
+                        link: https://www.linkedin.com/in/ismailhamadi/
+                        position: Speaker, maintainer of nodeschool Algiers and web developer.
+                        photo: meetups/speakers/ismail_hamadi.jpg
+    -
+        title: Data Driven Development
+        location: Sylabs, Algiers
+        date: February 25st 2017
+        current: false
         presentations:
             presentation_1:
                 title: The Growth Product Development
