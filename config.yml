@@ -48,6 +48,15 @@ meetups:
                         link: https://www.linkedin.com/in/ismailhamadi/
                         position: Speaker, maintainer of nodeschool Algiers and web developer.
                         photo: meetups/speakers/ismail_hamadi.jpg
+           presentation_3:
+                title: "ES6 new syntax overview"
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Assem chelli 
+                        link: https://www.linkedin.com/in/assemchelli/
+                        position: Software Project Manager.
+                        photo: meetups/speakers/assem_chelli.jpg           
     -
         title: Data Driven Development
         location: Sylabs, Algiers
