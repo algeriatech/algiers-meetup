@@ -56,7 +56,16 @@ meetups:
                         fullname: Assem chelli 
                         link: https://www.linkedin.com/in/assemchelli/
                         position: Software Project Manager.
-                        photo: meetups/speakers/assem_chelli.jpg           
+                        photo: meetups/speakers/assem_chelli.jpg  
+            presentation_4:
+                title: "Live coding with nodejs"
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Tedj Meabiou 
+                        link: https://www.linkedin.com/in/tedj-meabiou-a6309548
+                        position: Co-founder of ioGrow.
+                        photo: meetups/speakers/tedj_meabiou.jpg          
     -
         title: Data Driven Development
         location: Sylabs, Algiers
