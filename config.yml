@@ -48,7 +48,7 @@ meetups:
                         link: https://www.linkedin.com/in/ismailhamadi/
                         position: Speaker, maintainer of nodeschool Algiers and web developer.
                         photo: meetups/speakers/ismail_hamadi.jpg
-           presentation_3:
+            presentation_3:
                 title: "ES6 new syntax overview"
                 level: Intermediate
                 speakers:
