@@ -37,7 +37,7 @@ meetups:
                     speaker_1:
                         fullname: Houssem Yahiaoui
                         link: https://www.linkedin.com/in/houssemyahiaoui
-                        position: Telerik Developer Expert and Freelance Javascript Develoer
+                        position: Telerik Developer Expert and Freelance Javascript Developer
                         photo: meetups/speakers/houssem_yahiaoui.jpg
             presentation_2:
                 title: "ES6 Modules + Bundlers"
