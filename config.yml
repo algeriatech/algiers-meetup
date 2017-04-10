@@ -75,6 +75,7 @@ meetups:
             presentation_1:
                 title: The Growth Product Development
                 level: Intermediate
+                slides: https://www.slideshare.net/lehic/growth-product-development
                 speakers:
                     speaker_1:
                         fullname: Mehdi Mehni
@@ -93,6 +94,7 @@ meetups:
             presentation_3:
                 title: Data tracking using Google Analytics
                 level: Intermediate
+                slides: https://www.slideshare.net/algiersmeetup/data-tracking-using-google-analytics
                 speakers:
                     speaker_1:
                         fullname: Zidane Fathia
