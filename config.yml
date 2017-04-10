@@ -118,6 +118,7 @@ meetups:
             presentation_2:
                 title: DevOps ? "From idea to production"
                 level: Intermediate
+                slides: https://www.slideshare.net/HabibMAALEM/devops-from-idea-to-production
                 speakers:
                     speaker_1:
                         fullname: Habib Maalem
@@ -127,6 +128,7 @@ meetups:
             presentation_3:
                 title: Introduction to AWS
                 level: Beginners
+                slides: https://www.slideshare.net/algiersmeetup/introduction-to-aws-74842116
                 speakers:
                     speaker_1:
                         fullname: Mounir Kadri
@@ -154,6 +156,7 @@ meetups:
             presentation_6:
                 title: Microsoft Azure for Developers
                 level: Intermediate
+                slides: https://www.slideshare.net/slideshow/embed_code/key/16yuI2Idq2Cnza
                 speakers:
                     speaker_1:
                         fullname: Mohammed Amine Mostefai
