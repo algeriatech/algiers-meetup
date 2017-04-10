@@ -123,15 +123,6 @@ meetups:
                         position: Web Developer (Consultant)
                         photo: meetups/speakers/habib_maalem.jpg
             presentation_3:
-                title: Introduction to GCP and Kubernetes
-                level: Intermediate
-                speakers:
-                    speaker_1:
-                        fullname: Tedj Meabiou
-                        link: https://dz.linkedin.com/in/tedj-meabiou-a6309548
-                        position: Co-founder of ioGrow
-                        photo: meetups/speakers/tedj_meabiou.jpg
-            presentation_4:
                 title: Introduction to AWS
                 level: Beginners
                 speakers:
@@ -140,7 +131,7 @@ meetups:
                         link: https://www.linkedin.com/in/mounir-kadri-b9989132
                         position: Lead developer at Emploitic
                         photo: meetups/speakers/mounir_kadri.jpg
-            presentation_5:
+            presentation_4:
                 title: Introduction to Docker
                 level: Beginners
                 speakers:
@@ -149,7 +140,7 @@ meetups:
                         link: https://ramzibot.wordpress.com/
                         position: Senior Consultant at Ooredoo
                         photo: meetups/speakers/ramzi_debab.jpg
-            presentation_6:
+            presentation_5:
                 title: De la virtualisation au cloud, enjeux et pratiques
                 level: Intermediate
                 speakers:
@@ -158,7 +149,7 @@ meetups:
                         link: https://www.linkedin.com/in/bilalkalem
                         position: CEO at integrateur open source (IOS)
                         photo: meetups/speakers/bilal_kalem.jpg
-            presentation_7:
+            presentation_6:
                 title: Microsoft Azure for Developers
                 level: Intermediate
                 speakers:
@@ -236,6 +227,20 @@ meetups:
                         link: https://twitter.com/_hcodex
                         position: Etudiant / GDG Manager at USDB
                         photo: meetups/speakers/houssem_yahiaoui.jpg
+    -
+        title: App Monetization
+        location: Algiers
+        date: May 28th 2016
+        presentations:
+            presentation_1:
+                title: Mobile financial Services
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Assia Meziani
+                        link: https://www.linkedin.com/in/assia-meziani-mba-ip-techwoman-b159721/
+                        position: MFS Technical Support & Project Management Senior Manager at Djezzy
+                        photo: meetups/speakers/assia_meziani.jpg
     -
         title: Linux, Open Source & Security
         location: Algiers
