@@ -65,6 +65,7 @@ meetups:
             presentation_1:
                 title: "Intro to RxJS"
                 level: Beginner
+                slides: https://speakerdeck.com/hcodex/rxjs-the-3-main-questions
                 speakers:
                     speaker_1:
                         fullname: Houssem Yahiaoui
@@ -74,6 +75,7 @@ meetups:
             presentation_2:
                 title: "ES6 Modules + Bundlers"
                 level: Intermediate
+                slides: https://www.slideshare.net/ismnoiet/es6-modulesandbundlers
                 speakers:
                     speaker_1:
                         fullname: Ismail Hamadi 
