@@ -57,6 +57,15 @@ meetups:
                         link: https://www.linkedin.com/in/beddiaf-abdelmoumen-994b3326/
                         position: Datawarehouse Specialist at Ooredoo Algeria
                         photo: meetups/speakers/moumen_beddiaf.jpg
+              presentation_4:
+                title: "Big Data, la stratégie et la plateforme de Microsoft"
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Massine DIB
+                        link: https://www.linkedin.com/in/massine-dib-2b711823/
+                        position: BI and Data Management Architect
+                        photo: meetups/speakers/massine_dib.jpg             
     -
         title: Advanced Javascript.
         location: Sylabs, Algiers
