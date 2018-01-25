@@ -24,11 +24,52 @@ talkProposalForm: https://goo.gl/V4w6c1
 twitter: algeria_tech
 images: [ algiers-meetup-1.jpg, algiers-meetup-2.jpg ]
 meetups:
+     -
+        title: Java & Related Technologies
+        location: Sylabs, Algiers
+        date: January 27th 2018
+        current: true
+        presentations:
+            presentation_1:
+                title: "What's new in Java 9"
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Cherif Yazid
+                        link: https://twitter.com/cherif_yaz
+                        position: Software Engineer, JavaEE Developer
+                        photo: meetups/speakers/yazid_cherif.png
+            presentation_2:
+                title: "Java Entreprise Edition"
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Mohamed Guezil
+                        link: https://www.linkedin.com/in/mohamed-guezil-77466263/
+                        position: Ingenieur conception et developpemnt SI at Elit-Sonelgaz
+                        photo: meetups/speakers/mohamed_guezil.jpg
+            presentation_3:
+                title: "Think Functional and Reactive in Programming with Java"
+                level: Advanced
+                speakers:
+                    speaker_1:
+                        fullname: Bilal Khiat
+                        link: https://www.linkedin.com/in/bilal-khiat-6a826920/
+                        position: Oracle Certified Expert Specialist Java & Fusion Middleware 
+                        photo: meetups/speakers/bilal_khiat.jpg
+            presentation_4:
+                title: "Eclipse MicroProfile - Java Enterprise for a microservices architecture"
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Hocine Bekkouche
+                        link: https://twitter.com/bek_hocine
+                        position: Team leader & Analyste Developer at IconSoftware
+                        photo: meetups/speakers/hocine_bekkouche.png            
     -
         title: Business Intelligence Or BIG DATA?
         location: Sylabs, Algiers
         date: April 29th 2017
-        current: true
         presentations:
             presentation_1:
                 title: "La Business Intelligence, un domaine à découvrir"
