@@ -24,7 +24,7 @@ talkProposalForm: https://goo.gl/V4w6c1
 twitter: algeria_tech
 images: [ algiers-meetup-1.jpg, algiers-meetup-2.jpg ]
 meetups:
-     -
+    -
         title: Java & Related Technologies
         location: Sylabs, Algiers
         date: January 27th 2018
