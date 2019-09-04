@@ -24,11 +24,52 @@ talkProposalForm: https://goo.gl/V4w6c1
 twitter: algeria_tech
 images: [ algiers-meetup-1.jpg, algiers-meetup-2.jpg ]
 meetups:
+        title: Laravel, the journey
+        location: Sylabs, Algiers
+        date: September 21th 2019
+        current: true
+        presentations:
+            presentation_1:
+                title: "Vue with Laravel"
+                level: !Missing level!
+                speakers:
+                    speaker_1:
+                        fullname: Koceila Hadji
+                        link: https://dz.linkedin.com/in/kouceyla-hadji-908b3134
+                        position: Consultant, Trainer and Freelancer
+                        photo: meetups/speakers/koceila_hadji.jpg
+            presentation_2:
+                title: "API development"
+                level: !Missing level!
+                speakers:
+                    speaker_1:
+                        fullname: Abdelmounaam Benhouria
+                        link: https://www.linkedin.com/in/abdelmounaambenhouria
+                        position: Co-founder of Brainiac.dz
+                        photo: meetups/speakers/abdelmounaam-benhouria.jpg
+            presentation_3:
+                title: "Package dev"
+                level: !Missing level!
+                speakers:
+                    speaker_1:
+                        fullname: Reda Bouchaala
+                        link: https://www.linkedin.com/in/bouchaala-reda
+                        position: Senior Backend Engenier
+                        photo: meetups/speakers/reda-bouchaala.jpg
+            presentation_4:
+                title: "Testing Laravel"
+                level: !Missing level!
+                speakers:
+                    speaker_1:
+                        fullname: Youghourta Benali
+                        link: https://www.linkedin.com/in/youghourta
+                        position: Back-end developer
+                        photo: meetups/speakers/youghourta_benali
     -
         title: Java & Related Technologies
         location: Sylabs, Algiers
         date: January 27th 2018
-        current: true
+        current: false
         presentations:
             presentation_1:
                 title: "What's new in Java 9"
