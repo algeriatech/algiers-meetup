@@ -48,8 +48,8 @@ meetups:
                         position: Co-founder of Brainiac.dz
                         photo: meetups/speakers/abdelmounaam-benhouria.jpg
             presentation_3:
-                title: "Package dev"
-                level: !Missing level!
+                title: "Package Development"
+                level: Intermediate
                 speakers:
                     speaker_1:
                         fullname: Reda Bouchaala
