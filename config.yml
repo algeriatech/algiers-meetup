@@ -30,14 +30,14 @@ meetups:
         current: true
         presentations:
             presentation_1:
-                title: "Vue with Laravel"
-                level: !Missing level!
+                title: "Vue in Laravel"
+                level: Beginner
                 speakers:
                     speaker_1:
-                        fullname: Koceila Hadji
+                        fullname: Kouceyla Hadji
                         link: https://dz.linkedin.com/in/kouceyla-hadji-908b3134
                         position: Consultant, Trainer and Freelancer
-                        photo: meetups/speakers/koceila_hadji.jpg
+                        photo: meetups/speakers/kouceyla_hadji.jpg
             presentation_2:
                 title: "How to cook a healthy API with Laravel"
                 level: Beginner
@@ -580,10 +580,10 @@ meetups:
                 slides: http://slides.com/kouceylahadji-1/laravel#/
                 speakers:
                     speaker_1:
-                        fullname: Koceila Hadji
+                        fullname: Kouceyla Hadji
                         link: https://dz.linkedin.com/in/kouceyla-hadji-908b3134
                         position: Consultant, Trainer and Freelancer
-                        photo: meetups/speakers/koceila_hadji.jpg
+                        photo: meetups/speakers/kouceyla_hadji.jpg
             presentation_3:
                 title: Yii Framework
                 slides: http://cherifgsoul.github.io/yii2-slides/
