@@ -48,7 +48,7 @@ meetups:
                         position: Co-founder of Brainiac.dz
                         photo: meetups/speakers/abdelmounaam-benhouria.jpg
             presentation_3:
-                title: "Package dev"
+                title: "Package Development"
                 level: Intermediate
                 speakers:
                     speaker_1:
