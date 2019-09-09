@@ -26,7 +26,7 @@ images: [ algiers-meetup-1.jpg, algiers-meetup-2.jpg ]
 meetups:
         title: Laravel, the journey
         location: Sylabs, Algiers
-        date: September 21th 2019
+        date: September 21st 2019
         current: true
         presentations:
             presentation_1:
@@ -39,12 +39,12 @@ meetups:
                         position: Consultant, Trainer and Freelancer
                         photo: meetups/speakers/koceila_hadji.jpg
             presentation_2:
-                title: "API development"
-                level: !Missing level!
+                title: "How to cook a healthy API with Laravel"
+                level: Beginner
                 speakers:
                     speaker_1:
                         fullname: Abdelmounaam Benhouria
-                        link: https://www.linkedin.com/in/abdelmounaambenhouria
+                        link: https://twitter.com/yomonaam
                         position: Co-founder of Brainiac.dz
                         photo: meetups/speakers/abdelmounaam-benhouria.jpg
             presentation_3:
@@ -58,7 +58,7 @@ meetups:
                         photo: meetups/speakers/reda-bouchaala.jpg
             presentation_4:
                 title: "Testing Laravel"
-                level: !Missing level!
+                level: Intermediate
                 speakers:
                     speaker_1:
                         fullname: Youghourta Benali
