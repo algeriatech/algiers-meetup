@@ -56,7 +56,7 @@ meetups:
                         fullname: Reda Bouchaala
                         link: https://www.linkedin.com/in/bouchaala-reda
                         position: Senior Backend Engenier
-                        photo: meetups/speakers/reda-bouchaala.jpg
+                        photo: meetups/speakers/reda_bouchaala.jpg
             presentation_4:
                 title: "Testing Laravel"
                 level: Intermediate
@@ -65,7 +65,7 @@ meetups:
                         fullname: Youghourta Benali
                         link: https://www.linkedin.com/in/youghourta
                         position: Back-end developer
-                        photo: meetups/speakers/youghourta_benali
+                        photo: meetups/speakers/youghourta_benali.jpg
     -
         title: Java & Related Technologies
         location: Sylabs, Algiers
