@@ -24,6 +24,7 @@ talkProposalForm: https://goo.gl/V4w6c1
 twitter: algeria_tech
 images: [ algiers-meetup-1.jpg, algiers-meetup-2.jpg ]
 meetups:
+    -
         title: Laravel, the journey
         location: Sylabs, Algiers
         date: September 21st 2019
