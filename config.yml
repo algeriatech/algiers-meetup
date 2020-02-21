@@ -40,7 +40,7 @@ meetups:
                         position: Senior Developer at Yucca Labs
                         photo: meetups/speakers/ahmed_siouani.jpg
             presentation_2:
-                title: "TDD and DDD"
+                title: "Test Driven Design: demystifying TDD"
                 level: Intermediate
                 speakers:
                       speaker_1:
