@@ -27,7 +27,7 @@ meetups:
     -
         title: "HTTP/3, TDD and DDD and UI Test"
         location: Emploitic, Algiers
-        date: March 7th 2019
+        date: March 7th 2020
         current: true
         presentations:
             presentation_1:
@@ -49,6 +49,15 @@ meetups:
                           position: CanJS Core Team Member
                           photo: meetups/speakers/cherif_bouchelaghem.jpg
             presentation_3:
+                title: "Emergent design with PHPSpec"
+                level: Intermediate
+                speakers:
+                    speaker_1:
+                        fullname: Cherif Bouchelaghem
+                        link: https://twitter.com/Cherif_b
+                        position: CanJS Core Team Member
+                        photo: meetups/speakers/cherif_bouchelaghem.jpg
+            presentation_4:
                 title: "UI test (Dusk / headless chromium)"
                 level: Intermediate
                 speakers:
