@@ -46,7 +46,7 @@ meetups:
                       speaker_1:
                           fullname: Cherif Bouchelaghem
                           link: https://twitter.com/Cherif_b
-                          position: Senior Web Developer at Allegorie.tv
+                          position: CanJS Core Team Member
                           photo: meetups/speakers/cherif_bouchelaghem.jpg
             presentation_3:
                 title: "UI test (Dusk / headless chromium)"
