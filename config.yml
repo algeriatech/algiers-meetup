@@ -24,11 +24,44 @@ talkProposalForm: https://goo.gl/V4w6c1
 twitter: algeria_tech
 images: [ algiers-meetup-1.jpg, algiers-meetup-2.jpg ]
 meetups:
+  -
+    title: HTTP/3, TDD and DDD and UI Test
+    location: Emploitic, Algiers
+    date: March 7th 2019
+    current: true
+    presentations:
+        presentation_1:
+            title: "HTTP/3 for a faster and reliable web"
+            level: Intermediate
+            speakers:
+                speaker_1:
+                    fullname: Ahmed Siouani
+                    link: https://www.linkedin.com/in/ahmed-siouani-56391a20
+                    position: Senior Developer at Yucca Labs
+                    photo: meetups/speakers/ahmed_siouani.jpg
+      presentation_2:
+          title: "TDD and DDD"
+          level: Intermediate
+          speakers:
+              speaker_1:
+                  fullname: Cherif Bouchelaghem
+                  link: https://twitter.com/Cherif_b
+                  position: Senior Web Developer at Allegorie.tv
+                  photo: meetups/speakers/cherif_bouchelaghem.jpg
+      presentation_3:
+          title: "UI test (Dusk / headless chromium)"
+          level: Intermediate
+          speakers:
+              speaker_1:
+                  fullname: Abdelmounaam Benhouria
+                  link: https://twitter.com/yomonaam
+                  position: Co-founder of Brainiac.dz
+                  photo: meetups/speakers/abdelmounaam-benhouria.jpg
     -
         title: Laravel, the journey
         location: Sylabs, Algiers
         date: September 21st 2019
-        current: true
+        current: false
         presentations:
             presentation_1:
                 title: "Vue in Laravel"
