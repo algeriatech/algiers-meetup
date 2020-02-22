@@ -25,7 +25,7 @@ twitter: algeria_tech
 images: [ algiers-meetup-1.jpg, algiers-meetup-2.jpg ]
 meetups:
     -
-        title: "HTTP/3, TDD and DDD and UI Test"
+        title: "HTTP/3, TDD and UI Test"
         location: Emploitic, Algiers
         date: March 7th 2020
         current: true
